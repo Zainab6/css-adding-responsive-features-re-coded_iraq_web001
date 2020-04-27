@@ -22,7 +22,12 @@
    width:35px;
  }
  
- #logo h2 
+ #logo h2 {
+   size:2.2em;
+ }
+ #social {
+   top:72px;
+ }
  
  
 }
